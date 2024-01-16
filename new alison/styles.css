@@ -1,0 +1,28 @@
+body {
+    background-color: #def4b0;
+}
+p{
+  margin-left: 435px;
+button{ 
+    block-size: 1cm;
+    size:20px ;
+    color: rgb(241, 244, 239);
+    background-color: rgb(21, 0, 255);
+   
+      padding: 10px;
+      font-size: 16px;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      margin-right: 200px;
+     
+        
+      
+}
+ 
+}
+
+h1 {
+    text-align:center;
+    color:green;
+}
+
